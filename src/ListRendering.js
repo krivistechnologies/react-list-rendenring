@@ -22,6 +22,12 @@ function ListRendering() {
       title: "Jeans",
       description: "High Rise Cigarette jeans",
       price: "$60.99"
+    },
+    {
+      id: 4,
+      title: "Blowse",
+      description: "High rise to blowse",
+      price: "$50.99"
     }
   ];
 
