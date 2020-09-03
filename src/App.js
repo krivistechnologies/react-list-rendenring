@@ -6,8 +6,6 @@ function App() {
     <div>
       <ListRendering />
       <ListRendering />
-      <ListRendering />
-      <ListRendering />
     </div>
   );
 }
